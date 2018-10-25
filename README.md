@@ -1,5 +1,5 @@
 # A very basic Meteor + Vue boilerplate
-This boilerplate serves as a Prove of concept of how easily Vue integrates with Meteor. 
+This boilerplate serves as a Proof of concept of how easily Vue integrates with Meteor. 
 
 > Please do not consider this as the best starting point for a mature app with Vue and Meteor 
 for this its recommended to use the generic [Meteor Vue Boilerplate](https://github.com/chris-visser/meteor-vue-boilerplate).
