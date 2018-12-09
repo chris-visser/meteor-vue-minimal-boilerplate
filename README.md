@@ -11,13 +11,6 @@ cd src && meteor npm install
 
 This will install the babel/runtime, some Meteor stubs and the Vue dependency.
 
-> At time of writing, there is a bug in the current version of the Meteor vue package. 
-To work around that set the NO_HMR environment variable like below
-
-```bash
-export NO_HMR=1
-```
-
 Run the below command to start the app
 ```bash
 meteor
